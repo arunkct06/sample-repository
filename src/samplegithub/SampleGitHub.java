@@ -19,6 +19,7 @@ public class SampleGitHub
     {
         // TODO code application logic here
         System.out.println("Welcome to github");
+        System.out.println("No");
     }
     
 }
